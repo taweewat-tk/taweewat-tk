@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taweewat Kornpetch</h1>
 <h3 align="center">I'm Software Developer on Thailand</h3>
-A passionate software developer on a mission to turn lines of code into meaningful solutions. 🚀
+<h3 align="center">A passionate software developer on a mission to turn lines of code into meaningful solutions. 🚀</h3>
 
 - 🔭 I’m currently working on **KTB Loan Banking**
 
