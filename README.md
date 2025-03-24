@@ -2,9 +2,9 @@
 <h3 align="center">I'm Software Developer in Thailand</h3>
 <h3 align="center">A passionate software developer on a mission to turn lines of code into meaningful solutions. 🚀</h3>
 
-- 🔭 I’m currently working on **KTB Loan Banking**
+- 🔭 I’m currently working on **NocNoc**
 
-- 🌱 I’m currently learning **on Backend side about nest and go lang**
+- 🌱 I’m currently learning **on Backend side about NestJS**
 
 - 👨‍💻 All of my projects are available at [https://twk-portfolio.com/](https://twk-portfolio.com/)
 
