@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **on Backend side about NestJS**
 
-- 👨‍💻 All of my projects are available at [https://twk-portfolio.com/](https://twk-portfolio.com/)
+- 👨‍💻 All of my projects are available at [https://tk-portfolio.com/](https://tk-portfolio.com/)
 
 - 📫 How to reach me **taweewat.tkz@gmail.com**
 
