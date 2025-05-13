@@ -2,7 +2,7 @@
 <h3 align="center">I'm Software Developer in Thailand</h3>
 <h3 align="center">A passionate software developer on a mission to turn lines of code into meaningful solutions. 🚀</h3>
 
-- 🔭 I’m currently working on **NocNoc**
+- 🔭 I’m currently working on **KTB**
 
 - 🌱 I’m currently learning **on Backend side about NestJS**
 
